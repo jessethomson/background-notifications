@@ -7,9 +7,9 @@ iPhone running iOS 10
 ## Instructions
 
 ### Define a new Region
--Type the title of the new region
--Use the slider to define the radius of the region
--Long press somewhere on the map to place the center of the new region in that location
+- Type the title of the new region
+- Use the slider to define the radius of the region
+- Long press somewhere on the map to place the center of the new region in that location
 
 ### Notifications
 - Press the home button to put the app in the background
